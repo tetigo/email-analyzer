@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+scikit-learn
+nltk
+pdfminer.six
+python-dotenv
+numpy
