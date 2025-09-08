@@ -8,7 +8,7 @@ Um sistema fullstack para **classificação automática de emails** e **geraçã
 - ✨ Sugestões de resposta via **OpenAI API** (ou templates locais se não houver chave)
 
 
-## - [Visite o App Online](https://email-analyzer-ten.vercel.app/)
+## - <a href="https://email-analyzer-ten.vercel.app/" target="_blank">Visite o App Online</a>
 
 ---
 
