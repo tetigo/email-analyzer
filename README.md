@@ -7,6 +7,9 @@ Um sistema fullstack para **classificação automática de emails** e **geraçã
 - 🤖 Classificação inicial com **scikit-learn**
 - ✨ Sugestões de resposta via **OpenAI API** (ou templates locais se não houver chave)
 
+
+## - [Visite o App Online](https://email-analyzer-ten.vercel.app/)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -20,6 +23,9 @@ Um sistema fullstack para **classificação automática de emails** e **geraçã
 - Ações rápidas:
   - Copiar resposta para área de transferência
   - Baixar resposta em arquivo `.txt`
+
+<img src="image.png" alt="app" width="600"/>
+
 
 ---
 

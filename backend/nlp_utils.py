@@ -16,13 +16,6 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
-
-# downloads (safe executar no startup; em produção coloque no build step)
-nltk.download("punkt")
-nltk.download("punkt_tab")
-nltk.download("stopwords")
-nltk.download("wordnet")
-
 NLTK_DATA_DIR = os.getenv("NLTK_DATA", "/tmp/nltk_data")
 nltk.data.path.append(NLTK_DATA_DIR)
 
